@@ -1,4 +1,5 @@
 #! /usr/bin/bash
 cd /var/www/app/
 git pull origin main --ff-only
-npm i
+npm run build
+pm2 restart deesky
