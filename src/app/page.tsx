@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 to-purple-900 text-white">
       <div className="text-center">
         <h1 className="text-4xl md:text-6xl lg:text-8xl mb-4">
-          Hello, I'm Gladson Robinson
+          Hello, I am Gladson Robinson
         </h1>
         <p className="text-xl mb-8">
           Senior Software Engineer at Delivery Hero | Berlin, Germany
